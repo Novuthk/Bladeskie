@@ -9,7 +9,7 @@ Credit: [Novu](https://osu.ppy.sh/users/17561095)
 </a>
 
 <details>
-<summary>MarineSummer Menu</summary>
+<summary> Menu</summary>
 <img src="https://i.imgur.com/T0Im8a4.png" title="Menu Background">
 <img src="https://i.imgur.com/irhzJLX.png" title="Song Select">
 <img src="https://i.imgur.com/elfxWT5.png" title="Select Modes">
@@ -18,27 +18,27 @@ Credit: [Novu](https://osu.ppy.sh/users/17561095)
 </details>
 
 <details>
-<summary>MarineSummer Gameplay</summary>
+<summary> Gameplay</summary>
 <img src="https://i.imgur.com/fPtlnoP.png" title="Gameplay circles">
 <img src="https://i.imgur.com/w6BWQTV.png" title="Gameplay circles">
 <img src="https://i.imgur.com/lCrmOxY.png" title="Gameplay circles">
 </details>
 
 <details>
-<summary>MarineSummer Pause & Fail Screen</summary>
+<summary> Pause & Fail Screen</summary>
 <img src="https://i.imgur.com/iJuA0TA.png" title="Screen Pause">
 <img src="https://i.imgur.com/wSFyK3P.png" title="Screen Fail">
 </details>
 
 <details>
-<summary>MarineSummer Skip & Section Screen</summary>
+<summary> Skip & Section Screen</summary>
 <img src="https://i.imgur.com/d7EvAdA.png" title="Screen Skip">
 <img src="https://i.imgur.com/DKDUhiO.png" title="Screen Pass">
 <img src="https://i.imgur.com/OZruigs.png" title="Screen Fail">
 </details>
 
 <details>
-<summary>MarineSummer Ranking Panel</summary>
+<summary> Ranking Panel</summary>
 <img src="https://i.imgur.com/HfczSW8.png" title="Ranking Panel">
 <img src="https://i.imgur.com/NRrtTZB.png" title="Ranking Panel">
 </details>
