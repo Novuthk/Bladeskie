@@ -42,10 +42,4 @@ Credit: [Novu](https://osu.ppy.sh/users/17561095)
 <img src="https://i.imgur.com/HfczSW8.png" title="Ranking Panel">
 <img src="https://i.imgur.com/NRrtTZB.png" title="Ranking Panel">
 </details>
-
-#### Download
-Source|Link|
-|---|---|
-|MediaFire|[Go to MediaFire](https://www.mediafire.com/folder/fdqtxy9n6i16d/Bladeskie)|
-
 ___
